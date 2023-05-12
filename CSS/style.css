@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(173, 205, 222);
+    background-image:;
+}
+.cajapadre{
+    width: 400px;
+    background: rgba(21, 21, 21, 0.335);
+    padding: 18px;
+    margin: auto ;
+    margin-top: 40px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgba(9, 9, 9, 0.665);
+    justify-content: center;
+    position: relative;
+
+}
+.inputusuario{
+    margin: 30px;
+    width: 300px;
+    height: 30px;
+    
+}
+.inputcontrasena{
+    margin: 30px;
+    width: 300px;
+    height: 30px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    max-width: 210%;
+    max-height: 510px;
+    margin: auto; 
+}
+.logo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    max-width: 210%;
+    max-height: 510px;
+    margin: auto;
+}
+.botoningreso{
+    width: 400px;
+    background-color: rgba(66, 66, 203, 0.775);
+    padding: 30px;
+    margin: auto ;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    position: relative;
+}
+.botonsalir{
+    width: 150px;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgb(0, 0, 0);
+}
+
+.botonsalir1{
+    justify-content: end;
+    display: flex;
+}
+.botonenviar{
+    width: 150px;
+    background-color: rgba(4, 224, 12, 0.471);
+    padding: 10px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+    font-family: "calibri";
+}
+::placeholder{
+    color: rgb(19, 19, 19);
+}
+.cajapadreinicio{
+    width: 400px;
+    background: rgba(21, 21, 21, 0.335);
+    padding: 30px;
+    margin: auto ;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgba(9, 9, 9, 0.665);
+    justify-content: center;
+    position: relative;
+
+}
+.ramdom{
+    width: auto;
+    background: rgba(21, 21, 21, 0.335);
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.cajabotones1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: black;
+}
+.cajaretirardinero{
+    background: rgb(66, 66, 203, 0.775);
+    margin: 10px;
+    padding: 20px;
+    width: 180px;  
+}
+.cajatransferirdinero{
+    background: rgb(66, 66, 203, 0.775);
+    margin: 10px;
+    padding: 20px;
+    width: 180px;
+}
+.cajaconsultarsaldo{
+    background: rgb(66, 66, 203, 0.775);
+    margin: 10px;
+    padding: 20px;
+    width: 180px;
+}
+.cajapagarfacturas{
+    background: rgb(66, 66, 203, 0.775);
+    margin: 10px;
+    padding: 20px;
+    width: 180px;
+}
+.formularioconsignar{
+    text-align: left;
+    width: 400px;
+    display: flex;
+    justify-content: center space-between;
+}
+.cajarealizarretiro{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    
+}
